@@ -8,4 +8,4 @@ Sharif Uni. CS&Math Dept.
 
 **Language**: R
 
-**Dataset**:diabetes_binary_health_indicators_BRFSS2015
+**Dataset**: diabetes_binary_health_indicators_BRFSS2015
